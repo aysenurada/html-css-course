@@ -1,0 +1,23 @@
+div {
+  margin-bottom: 20px;
+}
+
+.one {
+  width: 200px;
+  border-radius: 15px;
+}
+
+.two {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+}

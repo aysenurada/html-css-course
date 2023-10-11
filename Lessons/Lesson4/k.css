@@ -1,0 +1,19 @@
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 18px;
+  padding: 8px 15px 8px 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: padding 0.15s,
+    margin 0.15s;
+}
+
+button:hover {
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
+}

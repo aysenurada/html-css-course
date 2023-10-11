@@ -1,0 +1,52 @@
+a {
+  color: rgb(0, 113, 133);
+}
+
+a:hover {
+  color: rgb(199, 81, 31);
+}
+
+.title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.button-add {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 30px;
+  width: 110px;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.button-add:hover {
+  background-color: rgb(247, 202, 0);
+}
+
+.button-add:active {
+  opacity: 0.5;
+}
+
+.button-buy {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 30px;
+  width: 110px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.button-buy:hover {
+  background-color: rgb(250, 137, 0);
+}
+
+.button-buy:active {
+  opacity: 0.5;
+}

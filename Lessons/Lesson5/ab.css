@@ -1,0 +1,21 @@
+.tahoma-text {
+  font-family: Tahoma;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.arial-text {
+  font-family: Arial;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.tuesday-text {
+  font-family: Arial;
+  font-size: 18px;
+  font-style: italic;
+  color: red;
+  margin-top: 0;
+}
